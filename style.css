@@ -1,0 +1,93 @@
+body {
+	background-color: #2f3640;
+}
+
+ul li a {
+	text-decoration: none;
+	color: white;
+	border: 1px solid;
+	width: 30%;
+	padding: 10px;
+}
+
+ul li {
+	list-style: none;
+	padding: 15px;
+}
+
+ul li a:hover {
+	background-color: white;
+	color: black;
+	transition: 0.8s;
+}
+
+.katogoriler h2 {
+	color: white;
+}
+
+.katogoriler h2:hover {
+	color: #9c9c9c;
+}
+
+.mk a {
+	text-decoration: none;
+	color: white;
+	border: 1px solid;
+	width: 30%;
+	padding: 10px;
+	line-height: 120px;
+}
+
+.mk a:hover {
+	background-color: white;
+	color: black;
+	transition: 0.8s;
+}
+
+.ek a {
+	text-decoration: none;
+	color: white;
+	border: 1px solid;
+	width: 30%;
+	padding: 10px;
+	line-height: 120px;
+}
+
+.ek a:hover {
+	background-color: white;
+	color: black;
+	transition: 0.8s;
+}
+
+.mk h2 {
+	color: white;
+}
+
+.ek h2 {
+	color: white;
+}
+
+.bot1mk h2 {
+	color: white;
+}
+
+.bot1mk a {
+	color: white;
+	border: 1px solid;
+	text-decoration: none;
+	padding: 20px;
+	line-height: 120px;
+}
+
+.bot1mk a:hover {
+	background-color: black;
+	color: white;
+	border-color: black;
+	transition: 0.8s;
+}
+
+.footer {
+	color: white;
+	font-size: 20px;
+	line-height: 800px;
+}
